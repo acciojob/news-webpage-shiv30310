@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+header{
+	background: #011e29;
+	color:white;
+	text-align:center;
+	font-size:30px
+}
+img{
+	width:300px;
+	height:300px;
+	display:flex;
+}
+body{
+	background:#f5f5f5;
+}
